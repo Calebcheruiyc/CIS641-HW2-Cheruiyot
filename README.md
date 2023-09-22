@@ -14,5 +14,5 @@ Link: [https://www.google.com/url?](https://www.google.com/url?sa=i&url=https%3A
 ## Contacts
 **Email**: calebcheruiyotsenior@gmail.com
 **Phone**: +16163294272
-**LinkedIn:** LinkedIn Profile
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/caleb-cheruiyot)https://www.linkedin.com/in/caleb-cheruiyot
 
