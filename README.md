@@ -10,9 +10,9 @@ This is a repository for termly project and assignments for CIS 641-System Analy
 -**Web Developmen**t: Skilled in HTML, CSS, React, and Node.js.
 -**Data Science**: Experienced with Redis, Neo4j, and MongoDB.
 ## Favorite Meme
-Link: [https://www.google.com/url?](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F651685008567123768%2F&psig=AOvVaw1pJYcHET1dMnsBJxFG1Z5r&ust=1695479874313000&source=images&cd=vfe&ved=0CBAQjhxqFwoTCMDlqe-4voEDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F651685008567123768%2F&psig=AOvVaw1pJYcHET1dMnsBJxFG1Z5r&ust=1695479874313000&source=images&cd=vfe&ved=0CBAQjhxqFwoTCMDlqe-4voEDFQAAAAAdAAAAABAD
+Link: [[https://www.google.com/url?](https://www.pinterest.com/pin/651685008567123768/)
 ## Contacts
 **Email**: calebcheruiyotsenior@gmail.com
 **Phone**: +16163294272
-**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/caleb-cheruiyot)https://www.linkedin.com/in/caleb-cheruiyot
+**LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/caleb-cheruiyot)
 
