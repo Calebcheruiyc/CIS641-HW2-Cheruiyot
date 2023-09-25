@@ -12,7 +12,7 @@ This is a repository for termly project and assignments for CIS 641-System Analy
   ## Hobbies
 - **Adventure**: Love exploring new places and trying new things.
 - **Tech Innovation**: Enthusiastic about the latest advancements in technology.
--** Fellowship**: Enjoy connecting with like-minded individuals in the tech community.
+- **Fellowship**: Enjoy connecting with like-minded individuals in the tech community.
 - **Playing Volley**: A passionate volleyball player, always up for a game.
 - **Hiking**: Find solace in the great outdoors and hiking in scenic locations.
 - **Leisure Activities**: Enjoy reading, watching movies, and trying out new recipes in my free time.
