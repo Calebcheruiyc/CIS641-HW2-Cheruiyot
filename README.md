@@ -18,7 +18,7 @@ This is a repository for termly project and assignments for CIS 641-System Analy
 - **Leisure Activities**: Enjoy reading, watching movies, and trying out new recipes in my free time.
 
 ## Favorite Meme
-Link:![[https://www.google.com/url?](https://www.pinterest.com/pin/651685008567123768/)]](https://www.pinterest.com/pin/me-at-1200-am--1118300151202937085/)
+Link:![(https://www.pinterest.com/pin/me-at-1200-am--1118300151202937085/)]
 ## Contacts
 - **Email**: calebcheruiyotsenior@gmail.com
 - **Phone**: **+16163294272**
