@@ -1,9 +1,9 @@
-# CIS641-HW2-Cheruiyot
-This is a repository for termly project and assignments for CIS 641-System Analysis and Design
 # Caleb Cheruiyot
+## Personal Statement
+I am a passionate, dynamic, innovative, and result-driven information technologist and computer scientist currently pursuing my master's degree in applied computer science at Grand Valley State University
 ## Interests
-+ **Computer Information Systems and System Analysis**: My passion lies in the field of computer information systems and system analysis.
-+ **Data Engineering and Programming**: I am currently pursuing a master's degree in applied computer science and actively learning new technological tools for data engineering, including Neo4j, Redis, MongoDB, and Golang.
++ **Computer Information Systems and System Analysis**: My passion lies in the field of computer information systems, databases, and system analysis.
++ **Data Engineering and Programming**: Currently  learning new technological tools for data engineering, including Neo4j, Redis, MongoDB, postegreSQL and Golang.
 + **Collaboration**: I am enthusiastic about collaborating on software and system design, data analysis, and web design projects.
 ## Technical Background
 * **Programming Languages**: Proficient in JavaScript and Python.
