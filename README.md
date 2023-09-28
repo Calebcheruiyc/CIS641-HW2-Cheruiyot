@@ -18,9 +18,8 @@ I am a passionate, dynamic, innovative, and result-driven information technologi
 - **Leisure Activities**: Enjoy reading, watching movies, and trying out new recipes in my free time.
 
 ## Favorite Meme
-Link:![(https://www.pinterest.com/pin/me-at-1200-am--1118300151202937085/)]
+Link:![Click here](https://www.pinterest.com/pin/me-at-1200-am--1118300151202937085/)
 ## Contacts
 - **Email**: calebcheruiyotsenior@gmail.com
-- **Phone**: **+16163294272**
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/caleb-cheruiyot)
 
