@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Caleb Cheruiyot - Portfolio</title>
-     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -31,9 +31,9 @@
 
         p {
             font-size: 16px;
-            line-height: 1.4; /* Reduced line height */
-            white-space: pre-line; /* Allows line breaks to be preserved */
-            margin-bottom: 2px; /* Add margin between paragraphs */
+            line-height: 1.4;
+            white-space: pre-line;
+            margin-bottom: 10px; /* Add margin between paragraphs */
         }
 
         ul {
@@ -42,7 +42,7 @@
         }
 
         li {
-            margin-bottom: 6px; /* Reduced margin between list items */
+            margin-bottom: 6px;
         }
 
         a {
@@ -53,8 +53,6 @@
         a:hover {
             text-decoration: underline;
         }
-
-        /* Add additional CSS styles as needed */
 
         /* Accessibility styles */
         .sr-only {
@@ -67,11 +65,21 @@
             clip: rect(0, 0, 0, 0);
             border: 0;
         }
-                /* Image styling */
+
+        /* Image styling */
         .profile-image {
             display: block;
             margin: 0 auto; /* Center the image */
             max-width: 100%; /* Ensure the image doesn't exceed its container */
+            height: auto; /* Maintain the aspect ratio */
+        }
+
+        /* Professional styling suggestions */
+        .professional-info {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
     </style>
 </head>
@@ -80,13 +88,17 @@
         <h1>Caleb Cheruiyot</h1>
         <img src="https://raw.githubusercontent.com/Calebcheruiyc/Cheruiyck/main/DSC_0008.JPG" alt="Caleb Cheruiyot's Profile Image" class="profile-image">
 
-        <h2>Personal Portfolio</h2>
-        <p>
-            This is where you can learn more about me and my experience. I am a seasoned computer scientist with a passion for innovation and a track record of excellence in the tech industry. With three years of experience, I have honed my skills in software development, database management, system administration, machine learning, and data analysis. I have actively contributed to the maintenance of systems and website developments. Lately, I have been involved in the onboarding of government services to eCitizens in my country, Kenya.
-        </p>
-        <p>
-            My commitment to staying at the forefront of technological advancements has driven me to continuously explore new frontiers, seeking out creative solutions to complex challenges. As a dedicated professional, I am driven by the belief that technology can transform our world, and I am excited to be a part of this transformative journey. Please explore my portfolio to learn more about me and my background in the ever-evolving field of technology.
-        </p>
+        <div class="professional-info">
+            <h2>Personal Portfolio</h2>
+            <p>
+                This is where you can learn more about me and my experience. I am a seasoned computer scientist with a passion for innovation and a track record of excellence in the tech industry. With three years of experience, I have honed my skills in software development, database management, system administration, machine learning, and data analysis. I have actively contributed to the maintenance of systems and website developments. Lately, I have been involved in the onboarding of government services to eCitizens in my country, Kenya.
+            </p>
+            <p>
+                My commitment to staying at the forefront of technological advancements has driven me to continuously explore new frontiers, seeking out creative solutions to complex challenges. As a dedicated professional, I am driven by the belief that technology can transform our world, and I am excited to be a part of this transformative journey. Please explore my portfolio to learn more about me and my background in the ever-evolving field of technology.
+            </p>
+        </div>
+
+        <!-- Additional sections and content can be added here -->
 
         <h2>Interests</h2>
         <ul>
